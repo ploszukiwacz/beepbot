@@ -1,0 +1,5 @@
+services:
+  beepbot:
+    build: .
+    container_name: beepbot
+    restart: always
